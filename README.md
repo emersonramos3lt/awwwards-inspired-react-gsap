@@ -1,8 +1,19 @@
-# React + Vite
+# Description 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Next-Level Interactive Web Experience
 
-Currently, two official plugins are available:
+This project is a showcase of my skills in React, featuring advanced scroll animations, responsive design, and high-quality video integration. Inspired by the award-winning Zentry website, this project aims to deliver a sleek, immersive experience that could stand out as an Awwwards-worthy site.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+With a strong focus on performance and aesthetics, the page combines smooth transitions, dynamic content loading, and cutting-edge design principles to create a user experience that's both functional and visually stunning.
+
+# Main Features
+- React
+- GSAP
+- Scroll Animations
+- Responsive Design
+-  UI/UX Design
+
+# 📷 Screenshots
+![Screenshot](./screenshot/img1.PNG)
+
+![Screenshot](./screenshot/img2.PNG)
