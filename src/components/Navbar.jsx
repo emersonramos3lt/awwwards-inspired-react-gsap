@@ -66,7 +66,7 @@ const Navbar = () => {
         <header className='absolute top-1/2 w-full -translate-y-1/2'>
             <nav className='flex size-full items-center justify-between p-4'>
                 <div className='flex items-center gap-7'>
-                    <a href="" target='_blank'>
+                    <a href="https://github.com/emersonramos3lt" target='_blank'>
                         <img src="/img/logo.svg" alt="GitHub logo" 
                         className='w-10'
                         />
